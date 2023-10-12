@@ -8,7 +8,7 @@
 底层逻辑 
 >* [1. 心理学简史：人可以自主](https://3ty.top/node/Positivepsychology/#/?id=_1心理学简史：人可以自主)
 >* [2.展望理论：你是被未来吸引，而不是被过去驱使](https://3ty.top/node/Positivepsychology/#/?id=_2展望理论：你是被未来吸引，而不是被过去驱使from=tab_recent#part-LlRodDEHioLroUxeaEocg38knjw) 
->* [3.主动性理论：做积极的事，就有积极的心态](https://a1a53w6jcoz.feishu.cn/docx/G70ydy6leoiuGSxmwjxcCk7Tnmf?from=tab_recent#part-DKjVd7FDloGsSmxQGFDcnTZinOc)
+>* [3.主动性理论：做积极的事，就有积极的心态](https://3ty.top/node/Positivepsychology/#/?id=_3主动性理论：做积极的事，就有积极的心态from=tab_recent#part-DKjVd7FDloGsSmxQGFDcnTZinOc)
 
 ### 1.心理学简史：人可以自主
 

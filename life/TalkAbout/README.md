@@ -1,22 +1,9 @@
-### 三条鱼知识指南
+##### 这是我的说说
 
-> An awesome project.
+！>每一条说说开头会有时间、地点
 
-#### 我的作品 
-> * [3ty.top](https://3ty.top/#/)
+?>2023.10.13 23:33 SBS 这是第一条说说。
 
-
-#### 我的笔记
-> * [ReadingNotes](https://3ty.top/notes/ReadingNotes/#/)
-> * [Psychology](https://3ty.top/notes/Psychology/#/)
-> * [PositivePsychology](https://3ty.top/notes/PositivePsychology/#/)
-> * [Finance](https://3ty.top/notes/Finance/#/)
-> * [Economics](https://3ty.top/notes/Economics/#/)
-> * [Business](https://3ty.top/notes/Business/#/)
-> * [Product](https://3ty.top/notes/Product/#/)
-
-#### 我的生活
-> * [TalkAbout](https://3ty.top/notes/TalkAbout/#/)
 
 
 

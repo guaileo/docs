@@ -7,12 +7,16 @@
 
 
 #### 我的笔记
-> * [读书笔记](https://3ty.top/notes/ReadingNotes/#/)
-> * [积极心理学](https://3ty.top/notes/PositivePsychology/#/)
-
+> * [ReadingNotes](https://3ty.top/notes/ReadingNotes/#/)
+> * [Psychology](https://3ty.top/notes/Psychology/#/)
+> * [PositivePsychology](https://3ty.top/notes/PositivePsychology/#/)
+> * [Finance](https://3ty.top/notes/Finance/#/)
+> * [Economics](https://3ty.top/notes/Economics/#/)
+> * [Business](https://3ty.top/notes/Business/#/)
+> * [Product](https://3ty.top/notes/Product/#/)
 
 #### 我的生活
-> * 
+> * [TalkAbout](https://3ty.top/notes/TalkAbout/#/)
 
 
 

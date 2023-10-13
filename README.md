@@ -8,7 +8,7 @@
 
 #### 我的笔记
 > * [积极心理学](https://3ty.top/notes/PositivePsychology/#/)
-* [读书笔记](https://3ty.top/notes/ReadingNotes/#/)
+> * [读书笔记](https://3ty.top/notes/ReadingNotes/#/)
 
 #### 我的生活
 > * 

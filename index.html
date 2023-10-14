@@ -11,17 +11,17 @@
 <body>
   <div id="app"></div>
   <script>
-
     window.$docsify = {
       name: '',
       repo: '',
       logo: 'https://github.com/guaileo/MyPics/blob/main/logo1.jpg?raw=true',
-      search: 'true' // 默认值
-      search : [
-      '/'            // => /README.md
-      ]
+      search : {
+         paths:'auto',  
+         placeholder:'搜索',
+         noData:'找不到结果',
+         depth:3,
+       }
     }
-  
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>

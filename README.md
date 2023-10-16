@@ -16,7 +16,7 @@
 > * [Product](https://3ty.top/notes/Product/#/)
 
 #### 我的生活
-> * [TalkAbout](https://3ty.top/notes/TalkAbout/#/)
+> * [TalkAbout](https://3ty.top/life/TalkAbout/#/)
 
 
 

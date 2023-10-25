@@ -5,7 +5,7 @@
 ?> 2023.10.26 7:41 sbs9411
 <br/> 发现一个新图床postimage
 ![IMG-5803.jpg](https://postimg.cc/QFj3xdv9)
-<br/> 对比sm.ms
+<br/> 相同的图片，对比sm.ms
 ![IMG_5803.jpeg](https://s2.loli.net/2023/10/26/yRqBwXf2vugzYt7.jpg)
 
 

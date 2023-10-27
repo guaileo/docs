@@ -2,6 +2,12 @@
 
 > 每一条说说开头会有时间、地点
 
+
+?> 2023.10.26 7:48 sbs9411
+<br/>在yandex搜索 李笑来发现了一个blog
+<br/>https://www.niehonglei.info/about
+<br/>读了一些文章后，才发觉拥有一个自己的博客多么重要。
+
 ?> 2023.10.26 7:48 sbs9411
 <br/> 发现一个新图床postimage
 [![IMG-5803.jpg](https://i.postimg.cc/BnKQp8gg/IMG-5803.jpg)](https://postimg.cc/QFj3xdv9)
